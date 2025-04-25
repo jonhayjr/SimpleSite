@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jon Hay. 
 ===============================================================================================================================  
-Software Engineer
+##Software Engineer
 I am a software engineer with experience building responsive React and Angular web applications. In my free time, I enjoy learning about new coding technologies and using them to build new projects. Take a look at my work or get in touch!  * 🌍  I'm based in Boise, Idaho * 🖥️  See my portfolio at [www.jonhayjr.com](http://www.jonhayjr.com) * ✉️  You can contact me at [jonhayjr@gmail.com](mailto:jonhayjr@gmail.com) * 🧠  I'm learning Angular * 🤝  I'm open to collaborating on Projects
 
 ### Skills  
